@@ -1,0 +1,20 @@
+{
+  "name": "apu-luxury",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "dev": "pnpm --parallel --filter @apu-luxury/api --filter @apu-luxury/web dev",
+    "dev:api": "pnpm --filter @apu-luxury/api dev",
+    "dev:web": "pnpm --filter @apu-luxury/web dev",
+    "build": "pnpm --filter @apu-luxury/api build && pnpm --filter @apu-luxury/web build",
+    "build:api": "pnpm --filter @apu-luxury/api build",
+    "build:web": "pnpm --filter @apu-luxury/web build",
+    "start": "pnpm --filter @apu-luxury/api start",
+    "start:api": "pnpm --filter @apu-luxury/api start",
+    "start:web": "pnpm --filter @apu-luxury/web start",
+    "typecheck": "pnpm --filter @apu-luxury/api typecheck && pnpm --filter @apu-luxury/web typecheck",
+    "typecheck:api": "pnpm --filter @apu-luxury/api typecheck",
+    "typecheck:web": "pnpm --filter @apu-luxury/web typecheck"
+  }
+}

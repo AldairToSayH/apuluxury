@@ -1,0 +1,14 @@
+
+> @apu-luxury/web@0.1.0 dev C:\Users\dairal_dl.z\Desktop\apu-luxury-new\apps\web
+> next dev
+
+   ▲ Next.js 15.5.19
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.65.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 17.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 34.7s (661 modules)
+ GET / 200 in 38523ms

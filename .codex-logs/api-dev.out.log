@@ -1,0 +1,26 @@
+
+> @apu-luxury/api@0.1.0 dev C:\Users\dairal_dl.z\Desktop\apu-luxury-new\apps\api
+> tsx watch src/server.ts
+
+APU LUXURY API running on http://localhost:4000
+[0mGET /health [32m200[0m 17.905 ms - 81[0m
+[0mGET /api/categories [32m200[0m 189.897 ms - 17[0m
+[0mPOST /api/auth/register-buyer [32m201[0m 1151.219 ms - 866[0m
+[0mGET /api/auth/me [32m200[0m 21.661 ms - 527[0m
+[0mPOST /api/auth/register-seller [32m201[0m 1042.026 ms - 1432[0m
+[0mGET /health [32m200[0m 0.797 ms - 81[0m
+[0mGET /health [32m200[0m 0.672 ms - 81[0m
+[0mGET /api/auth/me [33m401[0m 20.728 ms - 1740[0m
+[0mGET /api/auth/google [36m302[0m 2.573 ms - 0[0m
+[0mGET /api/auth/me [33m401[0m 2.069 ms - 1740[0m
+[0mGET /api/auth/me [33m401[0m 2.415 ms - 1740[0m
+[0mGET /api/auth/google [36m302[0m 0.888 ms - 0[0m
+[0mGET /api/auth/google [36m302[0m 0.945 ms - 0[0m
+[0mGET /api/auth/me [33m401[0m 1.140 ms - 1740[0m
+[0mGET /api/auth/google [36m302[0m 0.851 ms - 0[0m
+[0mGET /api/auth/me [33m401[0m 0.868 ms - 1740[0m
+[0mGET /api/auth/me [33m401[0m 0.982 ms - 1740[0m
+[0mGET /api/auth/google [36m302[0m 0.758 ms - 0[0m
+[0mGET /api/auth/me [33m401[0m 1.341 ms - 1740[0m
+[0mGET /api/auth/me [33m401[0m 0.627 ms - 1740[0m
+[0mGET /api/auth/me [33m401[0m 2.137 ms - 1740[0m
